@@ -14,6 +14,9 @@ A social media platform where users can connect through posts with functionaliti
 4. MongoDB database for efficient data storage and retrieval
 5. State management using Redux for seamless user interactions
 
+## Screenshots
+
+
 
 ## Tech Stack
 
