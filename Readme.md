@@ -3,7 +3,7 @@
 A social media platform where users can connect through posts with functionalities like upload, like, share, comment, and repost. Users also benefit from hourly and monthly analytics on their profiles and posts.
 
 ## Live Demo 🔴
-
+https://tweeter-six-alpha.vercel.app/
 
 
 ## Features
@@ -13,10 +13,6 @@ A social media platform where users can connect through posts with functionaliti
 3. Tailored user experience with ReactJS and TailwindCSS
 4. MongoDB database for efficient data storage and retrieval
 5. State management using Redux for seamless user interactions
-
-## Screenshots
-
-
 
 ## Tech Stack
 
